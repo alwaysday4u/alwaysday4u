@@ -1,7 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Son%20Lina&fontSize=30)
-
+![스크린샷 2023-10-23 033245](https://github.com/alwaysday4u/alwaysday4u/assets/139030224/3ffc60e5-9e1e-4209-814f-51f11f1373b1)
 
 
 <br></br>
@@ -38,6 +37,8 @@
 
 <!--
 **alwaysday4u/alwaysday4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Son%20Lina&fontSize=30)
+
 
 Here are some ideas to get you started:
 
