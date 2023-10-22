@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alwaysday4u)]([https://solved.ac/{handle](https://solved.ac/alwaysday4u)})
+<div align=center>[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alwaysday4u)]([https://solved.ac/{handle](https://solved.ac/alwaysday4u)}) </div>
 
 <!--
 **alwaysday4u/alwaysday4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
