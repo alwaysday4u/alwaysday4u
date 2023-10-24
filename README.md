@@ -25,7 +25,8 @@
 <img src="https://img.shields.io/badge/Java/JDK-437291?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=React&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=React&logoColor=white"/>
 <br></br>
 #### :computer: **Problem Solving**
 
