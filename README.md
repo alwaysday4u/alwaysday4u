@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=React&logoColor=white"/>
 
 <br></br>
